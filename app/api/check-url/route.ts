@@ -4,7 +4,6 @@ import { NextResponse } from "next/server"
 const KNOWN_UNSAFE_DOMAINS = [
   "malware.testpages.org",
   "malware.testing.google.test",
-  "testsafebrowsing.appspot.com",
   "phishing.example.com",
   "malware.example.com",
   "ianfette.org",
